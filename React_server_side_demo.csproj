@@ -178,7 +178,6 @@
     <Content Include="Global.asax" />
     <Content Include="readme.txt" />
     <Content Include="Scripts\CommentBox\CommentBox.jsx" />
-    <Content Include="Scripts\CommentBox\CommentComponents.jsx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
